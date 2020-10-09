@@ -1,13 +1,23 @@
 # Deep-Sea-Camera-System
-Resources and materials on the National Geographic Society's Deep Sea Camera System developed by the Exploration Technology Lab.
+Resources and materials on the Deep Sea Camera System (DSCS) developed by the National Geographic Society Exploration Technology Lab.
 
-Deep Sea Research Program
-National Geographic Exploration Technology Lab
+# Table of Contents
++ Overview
++ Documentation
++ Media
++ Team Members
 
-## Project Overview
-Updated: 10/09/2020
+## Overview
+The DSCS is a tetherless, portable device that can be deployed off the side of a boat. They sink to the seafloor to take sensor readings and record video of deep ocean biodiversity. After releasing their anchor, they float back to the surface automatically. 
 
-The Deep Ocean Research Program consists of two products, the Deep Sea Index and the Deep Sea Camera System (DSCS). 
+Features:
++ 4K video capture
++ Can be easily be operated by a team of two.
++ Data management: Depth, time, and pressure
++ New model: 13-in version
+
+## Documentation
+Further documentation on the DSCS can be found in the [docs](../docs) repository
 
 ## Media
 + An animation of the DSCS being deployed can be found [here.](https://vimeo.com/238944280/e0f4d67af1)
@@ -18,15 +28,6 @@ The Deep Ocean Research Program consists of two products, the Deep Sea Index and
 + Greenland shark [article](https://news.nationalgeographic.com/news/2014/12/141216-greenland-shark-video-franz-josef-land-exploration-science/)
 + Patterns in Bathyal Demersal Biodiversity and Community Composition Around Archipelagos in the Tropical Eastern Pacific [manuscript](https://www.frontiersin.org/articles/10.3389/fmars.2019.00388/full)
 + DAN Member Profile: Jonatha Giddens - DSRP art outreach [article](http://www.alertdiver.com/Jonatha-Giddens)
-
-## Deep Sea Camera System Technical Specifications
-The DSCS is a tetherless, portable device that can be deployed off the side of a boat. They sink to the seafloor to take sensor readings and record video of deep ocean biodiversity. After releasing their anchor, they float back to the surface automatically. 
-
-Features:
-4K video capture
-Can be easily be operated by a team of two.
-Data management: Depth, time, and pressure
-17-in and 13-in versions 
 
 ## Team Members
 Alan Turchik
