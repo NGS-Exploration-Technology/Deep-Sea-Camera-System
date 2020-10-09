@@ -12,7 +12,7 @@ The Deep Ocean Research Program consists of two products, the Deep Sea Index and
 ## Media
 An animation of the dropcam being deployed can be found [here.](https://vimeo.com/238944280/e0f4d67af1)
 
-Sample video from the dropcam can be found [here.] (https://vimeo.com/329863940/b3dda52cdf)
+Sample video from the dropcam can be found [here.](https://vimeo.com/329863940/b3dda52cdf)
 
 [Sharkcano video](https://video.nationalgeographic.com/video/expedition-raw/0000014e-6f82-d37e-a7de-ef83793b0000)
 
@@ -37,8 +37,11 @@ Data management: Depth, time, and pressure
 
 ## Team Members
 Alan Turchik
+
 Jonatha Giddens
+
 Denley Delaney
+
 Michelle Rodriguez
 
 
