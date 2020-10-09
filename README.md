@@ -17,7 +17,7 @@ Features:
 + New model: 13-in version
 
 ## Documentation
-Further documentation on the DSCS can be found in the [docs](../blob/master/docs) repository
+Further documentation on the DSCS can be found in the [docs](https://github.com/NGS-Exploration-Technology/Deep-Sea-Camera-System/tree/main/docs) repository
 
 ## Media
 + An animation of the DSCS being deployed can be found [here.](https://vimeo.com/238944280/e0f4d67af1)
