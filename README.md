@@ -8,8 +8,9 @@ Resources and materials on the Deep Sea Camera System (DSCS) developed by the Na
 + Team Members
 
 ## Overview
-The DSCS is a tetherless, portable device that can be deployed off the side of a boat. They sink to the seafloor to take sensor readings and record video of deep ocean biodiversity. After releasing their anchor, they float back to the surface automatically. A full description of the system can be found here:
-"The Deep Ocean Dropcam: A highly deployable benthic survey tool," OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-8. 
+The DSCS is a tetherless, portable device that can be deployed off the side of a boat. They sink to the seafloor to take sensor readings and record video of deep ocean biodiversity. After releasing their anchor, they float back to the surface automatically. 
+
+A full description of the system can be found here: "The Deep Ocean Dropcam: A highly deployable benthic survey tool," OCEANS 2015 - MTS/IEEE Washington, Washington, DC, 2015, pp. 1-8. 
 http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7401978&isnumber=7401802
 
 Features:
